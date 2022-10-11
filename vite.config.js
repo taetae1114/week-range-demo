@@ -15,5 +15,5 @@ export default defineConfig({
     
 
   ],
-  base:'/weekrange/'
+  base:'/week-range-demo/'
 })
